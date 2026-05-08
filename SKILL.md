@@ -1165,6 +1165,7 @@ Step 8 交卷前自检的复验信源**不得与 Step 0 完全重叠**：
 - `moat-analysis-guide.md` — 护城河五种类型深度分析指南
 - `valuation-traps.md` — 估值陷阱识别完全手册
 - `contrarian-checklist.md` — 逆向投资检查清单
+- `analysis-checklist.md` — 分析原则备忘
 
 ### scripts/ 🆕 v1.6 新增
 - `fetch_stock_data.py` — 一键取数脚本（yfinance + AkShare 双引擎），输出标准 JSON
